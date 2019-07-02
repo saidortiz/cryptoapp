@@ -1,0 +1,7 @@
+{
+  "name": "CryptoInfo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

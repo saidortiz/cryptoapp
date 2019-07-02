@@ -1,0 +1,79 @@
+
+
+.col {
+    padding:0 !important;
+}
+/*regresh button */
+#refresh {
+ float: right;
+ background-color:#464960;
+}
+/*text color */
+#colname {
+    text-transform: uppercase;
+    color:#f4f4f4 ;
+    margin: 15px 0 0 10px;
+    display: block;
+}
+
+span.label{
+   
+    font-size: .7em;
+    color:#f4f4f4 ;
+    display: block;
+
+}
+
+span.answer{
+    font-size: 14px;
+}
+
+span.label {
+   
+    font-size: 14px;
+    color:#f4f4f4;
+    display: block;
+
+}
+
+#icon
+{
+    height: 5px;
+    width: 10px;
+}
+
+.end {
+    text-align: right;
+}
+
+.list-md ion-item-options .button
+{
+    height: 45px !important;
+    background-color: #191a2a !important;
+}
+
+.list-md ion-item-options{
+    border-bottom: 0;
+}
+
+.size {
+    font-size:28px;
+    padding: 10px;
+}
+
+.price
+{
+    font-size: 20px;
+}
+
+.mycanvas
+{
+   margin-bottom: 10px;
+}
+
+.answer
+{
+    color:#ff9800;
+    
+}
+
