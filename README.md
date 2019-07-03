@@ -12,7 +12,7 @@ Coins Info
 
 ![Screenshot](https://github.com/saidortiz/cryptoapp/blob/master/img/Screenshot_2.png)
 
-Seach an add coins
+Seach and add coins
 
 ![Screenshot](https://github.com/saidortiz/cryptoapp/blob/master/img/Screenshot_3.png)
 
