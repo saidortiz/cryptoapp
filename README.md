@@ -6,15 +6,9 @@ cryptoapp
 
 App
 
-![Screenshot](https://github.com/saidortiz/cryptoapp/blob/master/img/Screenshot_1.png)
+![](img/coins.gif)
 
-Coins Info
 
-![Screenshot](https://github.com/saidortiz/cryptoapp/blob/master/img/Screenshot_2.png)
-
-Seach and add coins
-
-![Screenshot](https://github.com/saidortiz/cryptoapp/blob/master/img/Screenshot_3.png)
 
 logo credits
 
