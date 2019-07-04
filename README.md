@@ -8,7 +8,7 @@ App
 
 ![](img/coins.gif)
 
-
+![](img/add-coins.gif)
 
 logo credits
 
